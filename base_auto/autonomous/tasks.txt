@@ -1,0 +1,7 @@
+1. Find dataset with video frames + driving commands (done)
+2. Preprocess data, CNN model for end-to-end driving (image --> steering/throttle) (done)
+3. Train model (done)
+4. Deploy model via ONNX/TensorFlow Lite
+5. Run inference loop: capture live camera frames, run inference, send commands to motor driver
+6. Test
+7. Add real-time lane detection, monocular depth estimation for obstacles, RL simulation (behavioral/imitation learning) and transfer learning

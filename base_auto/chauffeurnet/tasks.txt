@@ -1,0 +1,5 @@
+Implement Chauffeur Net Model (Setup waypoint prediction from BEV, use agent to )
+Use WAYMO Dataset for training
+Use CARLA for training agent
+Use Google Maps API for full implementation
+

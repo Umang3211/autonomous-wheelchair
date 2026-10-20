@@ -1,0 +1,11 @@
+**/base_auto/autonomous/udacity-self-driving-car-behavioural-cloning/
+**/base_auto/obj_detection/yolov5/
+**/base_auto/myenv/
+**/base_auto/.env
+# generated per run (contain real GPS routes)
+base_auto/waypoint_path.json
+base_auto/api/walking_route.html
+# auto-downloaded by torch.hub
+yolov5s.pt
+__pycache__/
+.env
